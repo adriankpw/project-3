@@ -1,7 +1,4 @@
-# Project 3: Web APIs & Classification
----
-
-## Subreddit Post Classification
+# Reddit Post Classification - Which Subreddit?
 
 ### Problem Statement
 
